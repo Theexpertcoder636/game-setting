@@ -1,0 +1,12 @@
+{
+  "name": "GAME SHELF",
+  "featured": "games/1v1.lol.html",
+  "picks": [
+    "games/1-on-1-soccer.html",
+    "games/1.8_WASM.html",
+    "games/Alpha_1.2.6.html"
+  ],
+  "hidden": [
+    "games/bitlife.html"
+  ]
+}
